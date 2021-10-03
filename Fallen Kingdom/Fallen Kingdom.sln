@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallen Kingdom", "Assembly-CSharp-firstpass.csproj", "{56CF1307-1FFE-1DBB-DDE2-09993A75A825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallen Kingdom", "Assembly-CSharp.csproj", "{84E43C28-85AC-3B6A-747D-3FA63040802F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallen Kingdom", "Assembly-CSharp-Editor-firstpass.csproj", "{2815D307-BD8C-CE4A-0EF4-4B21B8803C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CF1307-1FFE-1DBB-DDE2-09993A75A825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CF1307-1FFE-1DBB-DDE2-09993A75A825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CF1307-1FFE-1DBB-DDE2-09993A75A825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CF1307-1FFE-1DBB-DDE2-09993A75A825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E43C28-85AC-3B6A-747D-3FA63040802F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E43C28-85AC-3B6A-747D-3FA63040802F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E43C28-85AC-3B6A-747D-3FA63040802F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E43C28-85AC-3B6A-747D-3FA63040802F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2815D307-BD8C-CE4A-0EF4-4B21B8803C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2815D307-BD8C-CE4A-0EF4-4B21B8803C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2815D307-BD8C-CE4A-0EF4-4B21B8803C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2815D307-BD8C-CE4A-0EF4-4B21B8803C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

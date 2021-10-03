@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<Paths xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nextId>2</nextId>
+  <paths>
+    <Path>
+      <id>1</id>
+      <path>Wood Sword</path>
+      <typeItem>Weapon</typeItem>
+    </Path>
+  </paths>
+</Paths>

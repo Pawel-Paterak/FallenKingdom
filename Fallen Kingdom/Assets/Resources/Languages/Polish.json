@@ -1,0 +1,77 @@
+{
+  "fileName": "Polish",
+  "translations": [
+    {
+      "englishWord": "Login",
+      "languageWord": "Zaloguj"
+    },
+    {
+      "englishWord": "Register",
+      "languageWord": "Rejestracja"
+    },
+    {
+      "englishWord": "Languages",
+      "languageWord": "Języki"
+    },
+    {
+      "englishWord": "Exit",
+      "languageWord": "Wyjdz"
+    },
+    {
+      "englishWord": "Exit",
+      "languageWord": "Wyjdz"
+    },
+    {
+      "englishWord": "Try Password",
+      "languageWord": "Powtórz hasło"
+    },
+    {
+      "englishWord": "Password",
+      "languageWord": "Hasło"
+    },
+    {
+      "englishWord": "Back to menu",
+      "languageWord": "Powrót do menu"
+    },
+    {
+      "englishWord": "Do you really want to leave the game?",
+      "languageWord": "Czy naprawdę chcesz opuścić grę?"
+    },
+    {
+      "englishWord": "Yes",
+      "languageWord": "Tak"
+    },
+    {
+      "englishWord": "No",
+      "languageWord": "Nie"
+    },
+    {
+      "englishWord": "Login is short. Min 5 chars.\n",
+      "languageWord": "Login jest za krótki. Minimum 5 znaków.\n"
+    },
+    {
+      "englishWord": "Password is short. Min 5 chars.\n",
+      "languageWord": "Hasło jest za krótkie. Minimum 5 znaków.\n"
+    },
+    {
+      "englishWord": "Password != try Password.\n",
+      "languageWord": "źle podano \"powtórz hasło\".\n"
+    },
+    {
+      "englishWord": "User is existing.",
+      "languageWord": "Taki użytkownik istnieję.\n"
+    },
+    {
+      "englishWord": "Your account has been registered.",
+      "languageWord": "Twoje konto zostało zarejestrowane.\n"
+    },
+    {
+      "englishWord": "Bad login or password!",
+      "languageWord": "Zły login lub hasło!\n"
+    },
+    {
+      "englishWord": "Create",
+      "languageWord": "Stwórz"
+    }
+  ]
+}

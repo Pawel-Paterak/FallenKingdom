@@ -1,0 +1,14 @@
+<ServerSettings>
+	<port>5555</port>
+	<slots>100</slots>
+	<recaiveBufferSize>4096</recaiveBufferSize>
+	<sendBufferSize>4096</sendBufferSize>
+	<debugWrite>3</debugWrite>
+	debugWrite of 1 to 3
+	1 - little information
+	2 - avarge information
+	3 - much information
+	<timeOutCount>12</timeOutCount>
+	One timeOut = 5s
+	<nameLog>TestLog</nameLog> not set
+</ServerSettings>

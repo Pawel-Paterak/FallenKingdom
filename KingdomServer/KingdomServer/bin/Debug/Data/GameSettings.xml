@@ -1,0 +1,8 @@
+<GameSettings>
+	<nameWorld>FirstTestWorld</nameWorld>
+	<nameLibraryItems>LibraryItems.xml</nameLibraryItems>
+	<multiplierExp>1</multiplierExp> not set
+	(multiplierExp * monster exp)
+	<notMoveTimeOut>300</notMoveTimeOut> not set
+	if the player does not move by (notMoveTimeOut) (one = 1s)
+</GameSettings>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Account xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <login>test123</login>
+  <password>test123</password>
+  <character>
+    <string>test123</string>
+    <string>TestNumber1</string>
+  </character>
+</Account>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Wood Sword</name>
+  <nameTexture>Swords2</nameTexture>
+  <typeItem>Weapon</typeItem>
+  <weight>5</weight>
+  <damage>15</damage>
+  <distanceAtack>3</distanceAtack>
+</Weapon>

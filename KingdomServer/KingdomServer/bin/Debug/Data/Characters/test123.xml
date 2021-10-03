@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Test123</name>
+  <sexId>0</sexId>
+  <idCharacter>0</idCharacter>
+  <lvl>1</lvl>
+  <life>50</life>
+  <mana>50</mana>
+  <position>
+    <x>2</x>
+    <y>0</y>
+    <z>2</z>
+  </position>
+  <inventory>
+    <head>
+      <Id>0</Id>
+      <slots>
+        <parentId>-1</parentId>
+        <id>0</id>
+        <count>0</count>
+        <slots />
+      </slots>
+    </head>
+    <breastplate>
+      <Id>0</Id>
+      <slots>
+        <parentId>-1</parentId>
+        <id>0</id>
+        <count>0</count>
+        <slots />
+      </slots>
+    </breastplate>
+    <legs>
+      <Id>0</Id>
+      <slots>
+        <parentId>-1</parentId>
+        <id>0</id>
+        <count>0</count>
+        <slots />
+      </slots>
+    </legs>
+    <boots>
+      <Id>0</Id>
+      <slots>
+        <parentId>-1</parentId>
+        <id>0</id>
+        <count>0</count>
+        <slots />
+      </slots>
+    </boots>
+    <leftHand>
+      <Id>0</Id>
+      <slots>
+        <parentId>-1</parentId>
+        <id>1</id>
+        <count>1</count>
+		<slots />
+      </slots>
+    </leftHand>
+    <rightHand>
+      <Id>0</Id>
+      <slots>
+        <parentId>-1</parentId>
+        <id>0</id>
+        <count>0</count>
+        <slots />
+      </slots>
+    </rightHand>
+    <backpack>
+      <Id>0</Id>
+      <slots>
+        <parentId>-1</parentId>
+        <id>0</id>
+        <count>0</count>
+        <slots />
+      </slots>
+    </backpack>
+  </inventory>
+</Character>
